@@ -43,6 +43,16 @@ Today, I apply that same **scientific rigor** (Hypothesis → Data Collection �
 - **Analysis:** Mapped the "Current State" flow using Lucidchart, revealing a **96+ hour delay** between assembly and sterilization.
 - **Key Finding:** Identified "Trunk Stock" (hidden inventory) carried by sales reps that was skewing central planning data.
 
+### 🛍️ [Consumer Behavior Research: Personalization Paradox](https://github.com/AnshulSilhare/Consumer-Behavior-Research)
+*Quantitative study (N=130) using SPSS to analyze privacy vs. loyalty.*
+- **Analysis:** Performed **Chi-Square** and **Spearman’s Rank** tests.
+- **Finding:** Found a strong negative correlation (r = -0.47) between intrusiveness and data sharing.
+
+### 🏭 [Odoo ERP Simulation: End-to-End Lifecycle](https://github.com/AnshulSilhare/Odoo-ERP-Simulation)
+*Full lifecycle management from RFQ to Financial Reporting.*
+- **Tools:** Odoo ERP.
+- **Scope:** Managed the flow of data between Procurement, Inventory, and Finance modules.
+
 ---
 
 ## 📜 Certifications
