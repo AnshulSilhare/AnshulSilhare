@@ -64,6 +64,6 @@ Today, I apply that same **scientific rigor** (Hypothesis → Data Collection �
 ---
 
 ## 📫 Let's Connect
-I am actively seeking **Summer 2026 Internships** in Operations Analytics, Supply Chain Analysis, or Business Intelligence.
+I am actively seeking **Summer 2026 Internships** in Operations Analytics, Supply Chain Analysis, or Business Analytics.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshul_Silhare-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshul-silhare)
