@@ -1,5 +1,5 @@
 # Hi, I'm Anshul Silhare! 👋
-### Operations & Supply Chain Analyst | Data-Driven Strategist
+### Data Analysis | Data-Driven Strategist
 
 I am a **PGDM Candidate in Research & Business Analytics** at WeSchool ('27) with a background in **Biotechnology**. I pivoted from the lab to the boardroom because I realized I enjoyed analyzing the data more than performing the experiments.
 
