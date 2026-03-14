@@ -25,6 +25,12 @@ Today, I apply that same **scientific rigor** (Hypothesis → Data Collection �
 - **Methodology:** Engineered a Random Forest classifier on 180,000+ records using Python and Scikit-Learn; processed 240+ features via One-Hot Encoding and StandardScaler, deployed via Streamlit.
 - **Outcome:** Delivered a production-ready dashboard providing real-time, probability-based delay risk percentages for both individual and bulk order uploads.
 
+### 📊 [US Data Analyst Job Market Analysis](https://github.com/AnshulSilhare/us-data-jobs-analysis/tree/main)
+*Comprehensive Python analysis of 100,000+ US job postings to uncover actual market requirements.*
+- **Objective:** Replaced subjective career advice with empirical market intelligence to identify the most in-demand and highest-paying data skills.
+- **Methodology:** Processed 785,000+ raw records using Python and Pandas; engineered time-series aggregations and ROI models visualized with Matplotlib and Seaborn.
+- **Outcome:** Delivered a strategic career roadmap with 15 visualizations, proving SQL's market dominance over Python for analysts and identifying the optimal skill combinations for maximum salary.
+
 ### 🚚 [Logistics Network Design: 2-Day Delivery Optimization](https://github.com/AnshulSilhare/Logistics-Network-Optimization)
 *Strategic network analysis to achieve 90% US coverage within 48 hours.*
 - **Objective:** Designed a "Lean 5-Node" distribution network (Redlands, Robbinsville, Louisville, Coppell, Lakeland) to balance freight costs vs. speed.
