@@ -19,6 +19,12 @@ Today, I apply that same **scientific rigor** (Hypothesis → Data Collection �
 
 ## 🚀 Featured Projects
 
+###📦 [DataCo Supply Chain: AI Delivery Risk Predictor](https://github.com/AnshulSilhare/dataco-supply-chain-ai-)
+End-to-end Machine Learning web application to predict global shipping delays before they occur.
+- **Objective:** Built a predictive intelligence tool to transition logistics management from reactive historical tracking to proactive risk intervention.
+- **Methodology:** Engineered a Random Forest classifier on 180,000+ records using Python and Scikit-Learn; processed 240+ features via One-Hot Encoding and StandardScaler, deployed via Streamlit.
+- **Outcome:** Delivered a production-ready dashboard providing real-time, probability-based delay risk percentages for both individual and bulk order uploads.
+
 ### 🚚 [Logistics Network Design: 2-Day Delivery Optimization](https://github.com/AnshulSilhare/Logistics-Network-Optimization)
 *Strategic network analysis to achieve 90% US coverage within 48 hours.*
 - **Objective:** Designed a "Lean 5-Node" distribution network (Redlands, Robbinsville, Louisville, Coppell, Lakeland) to balance freight costs vs. speed.
