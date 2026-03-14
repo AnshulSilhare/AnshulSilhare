@@ -13,7 +13,7 @@ Today, I apply that same **scientific rigor** (Hypothesis â†’ Data Collection â†
 | :--- | :--- | :--- |
 | ![SQL](https://img.shields.io/badge/SQL-Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black) | **Network Optimization** |
 | ![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white) | ![Tableau](https://img.shields.io/badge/Tableau-Viz-E97627?style=flat&logo=tableau&logoColor=white) | **Demand Forecasting** |
-| ![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=flat&logo=python&logoColor=white) | ![Odoo](https://img.shields.io/badge/Odoo-ERP-714B67?style=flat&logo=odoo&logoColor=white) | **Lean Six Sigma (DMAIC)** |
+| ![Python](https://img.shields.io/badge/Python-Analysis-3776AB?style=flat&logo=python&logoColor=white) | ![Odoo](https://img.shields.io/badge/Odoo-ERP-714B67?style=flat&logo=odoo&logoColor=white) | **Lean Six Sigma (DMAIC)** |
 
 ---
 
